@@ -1,0 +1,15 @@
+.option-label {
+    display: block;
+    cursor: pointer;
+  }
+  
+  .option-label input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+  
+  .option-content {
+    display: flex;
+    align-items: center;
+  }
